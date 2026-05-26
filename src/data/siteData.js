@@ -52,7 +52,7 @@ export const siteData = {
     workers: [
       {
         fullName: 'Цой Наталья Борисовна',
-        photoPath: '',
+        photoPath: 'photo/2c176e11-bfb8-482e-826a-bdd5896adb74.png',
         position: 'Врач невролог',
         specialty: 'Неврология',
         education: 'Высшее медицинское',
