@@ -4,6 +4,7 @@ export const siteData = {
     doctorNameShort: 'Цой Н.Б.',
     doctorNameBrief: 'Цой Н.Б.',
     headerTitle: 'Кабинет невролога — Цой Н.Б.',
+    doctorBadge: 'Врач-невролог — Цой Н.Б.',
   },
 
   navigation: [

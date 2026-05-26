@@ -100,7 +100,7 @@ export default function App() {
         <section className="hero" id="hero" aria-labelledby="hero-title">
           <div className="container hero__inner">
             <div className="hero__content">
-              <p className="hero__badge">Врач УЗИ — {siteData.meta.doctorNameBrief}</p>
+              <p className="hero__badge">{siteData.meta.doctorBadge ?? `Врач УЗИ — ${siteData.meta.doctorNameBrief}`}</p>
               <h1 id="hero-title" className="hero__title">
                 {siteData.hero.headline}
               </h1>
